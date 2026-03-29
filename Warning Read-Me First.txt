@@ -1,4 +1,12 @@
-___Hardware Integration: EBB42 Custom SPI Mapping___
+**First of all** , let’s be clear: I am an Artist, not a professional Software Engineer. What you see in this repository is the result of sleepless nights, raw experimentation, and a 'brute force' approach to problem-solving. I don’t follow standard coding conventions; I follow the logic of making things work when everyone says they shouldn't.
+
+[ USE AT YOUR OWN RISK ]
+I take zero responsibility for any damage to your hardware, your sanity, or your printer. If you fry your EBB42 or blow up your MCU, that’s on you. This is experimental R&D territory.
+
+[ A CALL TO THE EXPERTS ]
+If you are a real developer and you're looking at my code thinking, 'What on earth was he doing here?'—please, do not hesitate to fix it. If you know how to optimize these drivers, clean up the syntax, or make the logic more efficient, I encourage you to fork this repo and show me the better way. I’m here to learn and to push the limits of my CB2 and my 4070 Ti. If I managed to make this work while being 'a disaster' at programming, imagine what we can do together.
+
+[Hardware Integration: EBB42 Custom SPI Mapping]
 
 To implement the MT6835 21-bit encoder on the BigTreeTech EBB42 (STM32G0B1), a custom hardware bypass was developed to overcome the lack of dedicated SPI pins.
 
@@ -14,7 +22,7 @@ Firmware: The provided sensor_mt6835.c and angle.py are specifically tuned for t
 
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-___SDXL Training Optimization (RTX 4070 Ti / 12GB VRAM)___
+[SDXL Training Optimization (RTX 4070 Ti / 12GB VRAM]
 
 Training SDXL on consumer-grade hardware requires surgical VRAM management. This setup utilizes OneTrainer with specific arguments to maintain stability and speed.
 
