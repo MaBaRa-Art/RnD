@@ -26,5 +26,5 @@ Real-world testing of mechanical components and hardware solutions:
 
 ## 📫 Connect with me
 - **Instagram:** [@mabarart](https://www.instagram.com/mabarart/) (Visual Log)
-- **LinkedIn:** [linkedin.com/in/massimiliano-battini](https://linkedin.com/in/massimiliano-battini)
+- **LinkedIn:** [linkedin.com/in/massimiliano-battini](https://www.linkedin.com/in/massimiliano-battini-raimondi-45115125b/)
 - **Email:** massimiliano.battini.raimondi@gmail.com
