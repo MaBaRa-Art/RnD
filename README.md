@@ -19,8 +19,8 @@ Optimizing Latent Diffusion models for high-fidelity anatomical and artistic tra
 
 ## 🧩 Open Source & Community Validation
 Real-world testing of mechanical components and hardware solutions:
-* **MakerWorld:**https://makerworld.com/it/@MaBaRa
-* **Printables:**https://www.printables.com/@MaBaRa_4381598
+* **MakerWorld:** [https://makerworld.com/it/@MaBaRa]
+* **Printables:** [https://www.printables.com/@MaBaRa_4381598]
 
 ---
 
